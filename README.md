@@ -1,2 +1,2 @@
 # variant
- 一个简介的Typecho猪头
+ 一个简介的Typecho主题
